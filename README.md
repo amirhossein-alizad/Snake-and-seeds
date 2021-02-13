@@ -10,3 +10,8 @@ the test data should be in a text file in the format below:<br>
 * starting_x, starting_y
 * num_of_houses_with_seeds
 * for i < num_of_hoses_with_seeds: x, y, num_of_seeds
+
+### Contact ###
+in case of any questions contact:
+* t.me/awwmiir_a
+* mailto:aalizad79@gmail.com
