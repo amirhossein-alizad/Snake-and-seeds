@@ -9,5 +9,4 @@ the test data should be in a text file in the format below:<br>
 * N, M (N * M size of table)
 * starting_x, starting_y
 * num_of_houses_with_seeds
-* for i < num_of_hoses_with_seeds:
-  ** x, y, num_of_seeds
+* for i < num_of_hoses_with_seeds: x, y, num_of_seeds
